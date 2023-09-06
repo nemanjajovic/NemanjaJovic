@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @NemanjaJovic
-- 🌱 I’m currently improving on my knowledge of React, and later Node
+- 🌱 I’m currently sharpening my knowledge in python and everyday task automation
 - 📫 How to reach me: nemanja.jovic195@gmail.com and neco.j@live.com
